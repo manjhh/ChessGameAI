@@ -2,7 +2,7 @@ import pickle
 import numpy as np
 import os
 
-num_samples = 1000
+num_samples = 4000
 in_channels = 14
 board_size = 8
 n_moves = 4672
